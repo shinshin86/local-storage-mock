@@ -7,9 +7,9 @@ The behavior is not perfectly reproduced (The value returned when an unintended 
 ## Install
 
 ```sh
-npm install local-storage-mock
+npm install @shinshin86/local-storage-mock
 # or
-yarn add local-storage-mock
+yarn add @shinshin86/local-storage-mock
 ```
 
 ## Usage
