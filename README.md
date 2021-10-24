@@ -55,7 +55,7 @@ If you want to use the localStorage mock written in TypeScript, you can copy and
 
 ## License
 
-MIT
+[MIT](https://github.com/shinshin86/local-storage-mock/blob/main/LICENSE)
 
 ## Author
 
