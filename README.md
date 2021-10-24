@@ -6,6 +6,20 @@ The behavior is not perfectly reproduced (The value returned when an unintended 
 
 ## Install
 
+This package uses scoped modules.
+Therefore, please install it as follows.
+
+```sh
+npm install local-storage-mock@npm:@shinshin86/local-storage-mock
+# or
+yarn add local-storage-mock@npm:@shinshin86/local-storage-mock
+```
+
+Of course, you can also install it this way.
+In that case, please also enter the package with `@` when you load it.
+
+(Ex: `require('@shinshin86/local-storage-mock')` )
+
 ```sh
 npm install @shinshin86/local-storage-mock
 # or
