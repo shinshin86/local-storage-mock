@@ -2,5 +2,5 @@
 .prettierignore
 .prettierrc.js
 src/
-test/
+__test__/
 tsconfig.json
