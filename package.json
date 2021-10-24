@@ -1,6 +1,6 @@
 {
   "name": "@shinshin86/local-storage-mock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is the mock of localStorage. The behavior is not perfectly reproduced (*), but the basic logic is implemented. * The value returned when an unintended value is passed, for example.",
   "main": "dist/index.js",
   "scripts": {
