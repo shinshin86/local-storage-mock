@@ -1,5 +1,7 @@
 # localStorage Mock
 
+[![Test](https://github.com/shinshin86/local-storage-mock/actions/workflows/test.yml/badge.svg)](https://github.com/shinshin86/local-storage-mock/actions/workflows/test.yml)
+
 This is the mock of localStorage.
 
 The behavior is not perfectly reproduced (The value returned when an unintended value is passed, for example), but the basic logic is implemented.
