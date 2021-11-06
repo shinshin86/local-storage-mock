@@ -126,7 +126,7 @@ describe('local-storage-mock', () => {
       expect(window.localStorage.length).toBe(0);
     });
 
-    test('Not specify key', () => {
+    test('Not exists key', () => {
       window.localStorage.setItem('testkey', 'testvalue');
       expect(window.localStorage.getItem('testkey')).toBe('testvalue');
       expect(window.localStorage.length).toBe(1);
